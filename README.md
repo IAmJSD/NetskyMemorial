@@ -15,7 +15,8 @@ img {
   border-radius: 4px;
 }
 h1 {
-  border-bottom: none;
+  border-bottom: 0px solid #fff !important;
+  padding-bottom: 0em !important;
 }
 a {
   color: #8822b6;
