@@ -7,6 +7,7 @@
 - [Novus](https://novuscommunity.co/) • *Ran by RedEyeComputing, Da532 and more, Novus claims to be a "simple tech-based Discord community"*
 - [SSL](http://www.sslcommunity.io/) • *SSL is a much larger server that focuses on scambaiting*
 - [IBILLY MEDIA GROUP](https://discord.gg/CyZDQPv) • *A community where everything matters even your feelings. We talk about tech, servers and other things.*
+- [Harri's Hub](https://discord.gg/XE5fMSc) • *Harri's Hub owned by AO554 is a small server also based around tech and software and anything else related.*
 
 ### Want to visit the old site?
 It's still up! Find it [here](http://nc.archive.dnomaid.co.uk).
