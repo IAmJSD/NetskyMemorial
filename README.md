@@ -6,6 +6,7 @@
 ### Alternative servers you may enjoy:
 - [Novus](https://novuscommunity.co/) • *Ran by RedEyeComputing, Da532 and more, Novus claims to be a "simple tech-based Discord community"*
 - [SSL](http://www.sslcommunity.io/) • *SSL is a much larger server that focuses on scambaiting*
+- [IBILLY MEDIA GROUP](https://discord.gg/CyZDQPv) • *A community where everything matters even your feelings. We talk about tech, servers and other things.*
 
 ### Want to visit the old site?
 It's still up! Find it [here](http://nc.archive.dnomaid.co.uk).
