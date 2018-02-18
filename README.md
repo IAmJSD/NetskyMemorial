@@ -7,6 +7,9 @@
 - [Novus](https://novuscommunity.co/) • *Ran by RedEyeComputing, Da532 and more, Novus claims to be a "simple tech-based Discord* community"
 - [SSL](http://www.sslcommunity.io/) • *SSL is a much larger server that focuses on scambaiting*
 
+### Want to visit the old site?
+It's still up! Find it [here](http://nc.archive.dnomaid.co.uk).
+
 <style>
 h1:first-of-type {
   display: none;
